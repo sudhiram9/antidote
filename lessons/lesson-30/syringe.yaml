@@ -31,7 +31,7 @@ stages:
     description: Salt Master and Minion
     labguide: https://raw.githubusercontent.com/sudhiram9/antidote/master/lessons/lesson-30/stage1/guide.md
     configs:
-      vqfx1: https://raw.githubusercontent.com/sudhiram9/antidote/master/lessons/lesson-30/stage1/configs/vqfx1.txt
+      vqfx1: stage1/configs/vqfx1.txt
 
   2:
     description: Junos Proxy Minions
