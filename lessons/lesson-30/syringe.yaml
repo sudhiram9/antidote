@@ -37,11 +37,11 @@ stages:
     description: Junos Proxy Minions
     labguide: https://raw.githubusercontent.com/sudhiram9/antidote/master/lessons/lesson-30/stage2/guide.md
     configs:
-      vqfx1: https://raw.githubusercontent.com/sudhiram9/antidote/master/lessons/lesson-30/stage2/configs/vqfx1.txt
+      vqfx1: stage2/configs/vqfx1.txt
 
   3:
     description: Executing Junos commands in Salt
     labguide: https://raw.githubusercontent.com/sudhiram9/antidote/master/lessons/lesson-30/stage3/guide.md
     configs:
-      vqfx1: https://raw.githubusercontent.com/sudhiram9/antidote/master/lessons/lesson-30/stage3/configs/vqfx1.txt
+      vqfx1: stage3/configs/vqfx1.txt
 
